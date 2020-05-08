@@ -1,0 +1,53 @@
+{
+  "name": "svg-editor",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.12",
+    "@material-ui/icons": "^4.9.1",
+    "@react-pdf/renderer": "^1.6.8",
+    "@react-pdf/styled-components": "^1.4.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "canvg": "^3.0.6",
+    "framer-motion": "^1.10.3",
+    "html-to-image": "^0.1.1",
+    "html2canvas": "^1.0.0-rc.5",
+    "jsbarcode": "^3.11.0",
+    "jspdf": "^1.5.3",
+    "qrcode": "^1.4.4",
+    "qrcode.react": "^1.0.0",
+    "react": "^16.13.1",
+    "react-barcode": "^1.4.0",
+    "react-dom": "^16.13.1",
+    "react-draggable": "^4.3.1",
+    "react-pdf": "^4.1.0",
+    "react-pose": "^4.0.10",
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "react-spring": "^8.0.27",
+    "redux": "^4.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
